@@ -1,2 +1,5 @@
-# site-portfolio
-Praticando curso de GitHub
+# Bem vindo ao curso Git e Github.
+Nesse curso você vai dominar todo o git e github do zero ao profissional.
+
+## Módulos
+Entendendo que é git, Aprendendo sobre repositórios, Trabalhando com branches
